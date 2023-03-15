@@ -40,6 +40,6 @@ generateRail();
 ```
 
 ## Tips
-When slicing, I recommend you place the seams behind the rail (the one opposite from where the panels go). In Cura, I do this by changing the `Z Seam Position` to `Back Right`.
+When slicing, I recommend you place the seams behind the rail (the one opposite from where the panels go). In Cura, I do this by changing the `Z Seam Position` to `Back Right`. This helps keep the panels flush to the rail.
 
 ![Seam location](seams.png)
