@@ -30,6 +30,7 @@ Set length in mm
 ```
 include <EuroPanelMaker/panel.scad>
 length = 100;
+bottom_offset = 0; // increase this if you need to compensate for taller cases 
 ```
  
 #### Step 4: Call the generateRail function
